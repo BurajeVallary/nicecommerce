@@ -1,0 +1,153 @@
+.border{
+    border: solid;
+    border-width: 70px;
+    border-color: blue;
+    border-radius: 1%;
+    border-bottom: none;
+}
+
+.img{
+    width: 20%;
+    padding-left: 1%;
+    float: left;
+}
+.navigation{
+    background-color: white;
+    height: 50 px;
+    overflow: hidden;
+    float: right;
+
+}
+.navigation a{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 0 10px 0 10px;
+    text-decoration: none;
+}
+.words{
+    margin: 0 auto;
+    padding-top: 10%;
+    text-align: center;
+}
+.sentence{
+    margin: 0 auto;
+    text-align: center;   
+}
+.highlight{
+    color: green;
+}
+.black{
+    color: lightskyblue;
+}
+.button{
+background-color: blue;
+color: white;
+width: 10%;
+padding: 1% 2% 1%;
+height: 10%;
+}  
+.image{
+    width: 100%;
+    
+}
+.brands{
+    text-align: left;
+    padding: 5px;;
+}  
+.logo{
+    width: 25%;
+    height: 3%;
+    padding: 0px 5px 0px;
+   display: inline-block;
+   
+}
+
+.see{
+    background-color: blue;
+    color: white;
+    width: 14%;
+    margin-top: none ;
+    padding: 10px 1px;
+    display: inline-block;
+
+    
+} 
+.boxa{
+    background-color: lightskyblue;
+    width: 15%;
+    display:inline-block;
+    margin-right: 2%;
+    text-align: center;
+    justify-content: end;
+    height: 110px;
+    border-radius: 25px;
+    
+    
+    
+}
+.boxb{
+    background-color:lightseagreen;
+    width: 10%;
+    display: inline-block;
+    border-radius: 25px;
+    text-align: center;
+    justify-content: end;
+    margin-right: 2%;
+    height: 110px;
+}
+.boxc{
+    background-color:burlywood;
+    width: 10%;
+    border-radius: 25px;
+    display: inline-block;
+    text-align: center;
+    height: 110px;
+    justify-content: end;
+    margin-right: 2%;
+}
+.cont{
+display: flex;
+margin-left: 60%;
+}
+
+
+
+.join{
+
+    position: relative;
+}
+.main{
+    display: flex;
+   justify-content: end;
+   margin-top: -10em;
+}
+.val1{
+    border-radius: 25x;
+    padding: 10px;
+    margin: 1em;
+}
+.val2{
+    border-radius: 25px;
+    padding: 10px;
+    margin: 1em;
+}
+.val3{
+    border-radius: 25px;
+    padding: 10px;
+    margin: 1em;
+}
+.box{
+display: flex;
+justify-content: end;
+margin-top: -10em;
+}
+.val1 hr{
+    border-top: 4px solid blue;
+}
+.val2 hr{
+    border-top: 4px solid red
+}
+.val3 hr{
+border-top: 4px solid greenyellow;
+}
