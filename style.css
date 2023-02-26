@@ -122,17 +122,17 @@ margin-left: 60%;
    justify-content: end;
    margin-top: -10em;
 }
-.val1{
+.value1{
     border-radius: 25x;
     padding: 10px;
     margin: 1em;
 }
-.val2{
+.value2{
     border-radius: 25px;
     padding: 10px;
     margin: 1em;
 }
-.val3{
+.value3{
     border-radius: 25px;
     padding: 10px;
     margin: 1em;
@@ -142,12 +142,12 @@ display: flex;
 justify-content: end;
 margin-top: -10em;
 }
-.val1 hr{
+.value1 hr{
     border-top: 4px solid blue;
 }
-.val2 hr{
+.value2 hr{
     border-top: 4px solid red
 }
-.val3 hr{
+.value3 hr{
 border-top: 4px solid greenyellow;
 }
